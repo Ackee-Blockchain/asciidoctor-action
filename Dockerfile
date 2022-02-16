@@ -1,5 +1,5 @@
 # asciidoctor image
-FROM asciidoctor/docker-asciidoctor
+FROM asciidoctor/docker-asciidoctor:1.16
 
 LABEL "version"="1.0"
 
