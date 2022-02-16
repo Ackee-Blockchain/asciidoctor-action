@@ -1,6 +1,6 @@
 name: 'build asciidoctor action'
 author: 'Tony Vattathil'
-description: 'asciidoctor Build action'
+description: 'asciidoctor action'
 
 branding:
   icon: 'file'
