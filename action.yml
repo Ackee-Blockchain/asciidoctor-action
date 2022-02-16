@@ -1,4 +1,4 @@
-name: 'build asciidoctor action'
+name: 'asciidoctor action'
 author: 'Tony Vattathil'
 description: 'asciidoctor action'
 
